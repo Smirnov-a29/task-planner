@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Схематичный чек-лист: три пункта, первый отмечен галочкой -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,36 h10 v10 h-10 Z M52,39 h22 v4 h-22 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,52 h10 v10 h-10 Z M52,55 h22 v4 h-22 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,68 h10 v10 h-10 Z M52,71 h22 v4 h-22 Z" />
+</vector>

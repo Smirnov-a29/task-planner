@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.db
+
+# Project exclude paths
+/app/build/
+/ktor-server/build/
+/ktor-server/build/classes/kotlin/main/
